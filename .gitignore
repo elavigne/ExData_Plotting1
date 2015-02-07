@@ -1,0 +1,6 @@
+*.Rproj
+.Rproj*
+.DS_Store
+UCI*
+.Rproj.user
+household_power_consumption.txt
